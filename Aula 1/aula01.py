@@ -1,0 +1,12 @@
+print('olá mundo')
+print('eu amo comer')
+print('cookie')
+print('tik tok')
+print('bruno mars')
+print('o sol pediu a lua em casamento')
+print('a emilly quer comer papel')
+print('quero uma coxinha da tia')
+print('eu quero uma piscina agora')
+print('hoje vou comprar minhas roupas para o natal')
+print('emilly quer o ....')
+
